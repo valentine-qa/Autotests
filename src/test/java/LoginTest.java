@@ -14,7 +14,7 @@ public class LoginTest {
         open("https://qa.guru/cms/system/login");
 
         // Ввод адреса эл почты
-        $("[name=email]").setValue("example@mail.ru");
+        $("[name=email]").setValue("boroda@mail.ru");
 
         // Ввод пароля
         $("[name=password").setValue("example");
